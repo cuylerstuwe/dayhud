@@ -1,12 +1,12 @@
 {
-  "name": "ucal",
+  "name": "dayhud",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple scrolling HUD for today's agenda. Always in sync with the current time and latest adjustments to events.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cuyler Stuwe (salembeats@gmail.com)",
   "license": "ISC",
   "dependencies": {
     "googleapis": "^39.2.0"
